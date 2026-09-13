@@ -1,0 +1,9 @@
+Generated with the built-in image-generation tool for this independent concept website.
+
+Shared prompt: Landscape 3:2 photorealistic editorial food photograph for a menu card. Bright white tabletop, subtle red napkin, soft natural sunlight, fresh appetizing ingredients, entire dish centered with comfortable margin for cropping, three-quarter overhead camera angle. No lettering, logos, or watermark. Concept dish photograph.
+
+bowl.png: Sliced grilled chicken over mixed leafy greens in a white bowl, with a small ramekin of herb ranch on the side.
+tenders.png: Golden air-fried breaded chicken tenders in a small white paper-lined basket with a ramekin of dipping sauce.
+wrap.png: Two halves of a warm tortilla wrap filled with grilled chicken, lettuce, tomato, and light herb sauce.
+salad.png: Crispy chicken strips over greens with corn, carrots, and citrus-herb dressing, on a white salad plate.
+bucket.png: A red and white family chicken bucket containing a mix of golden Original Recipe style breaded chicken and grilled chicken pieces, with separate small sides of green beans and corn on the cob. No fries.
